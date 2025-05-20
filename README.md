@@ -1,5 +1,7 @@
 # TinDog: Tinder for Dogs 🐶❤️
 
+Try : https://acodein.github.io/TinDog/
+
 Welcome to **TinDog**, the ultimate app for your dog to find new friends and adventures nearby!
 
 ---
